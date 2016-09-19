@@ -7,7 +7,7 @@
     "password": "",
     "useBasicAuthentication": false,
     "csrfTokenUrl": "",
-    "baseVersionSha": "",
+    "baseVersionSha": "53200d7696f808f56bd5730b9ed7144b7303d946",
     "useGithub": true,
     "githubUrl": "https://api.github.com",
     "githubRepository": "temprepo",
@@ -15,7 +15,7 @@
     "githubUserRepository": "projectxtest",
     "requests": [
       {
-        "identifier": 1,
+        "identifier": 0,
         "name": "Start 1",
         "description": "",
         "httpMethod": "GET",
@@ -38,8 +38,8 @@
         "requestHeaders": []
       },
       {
-        "identifier": 2,
-        "name": "Start 2",
+        "identifier": 1,
+        "name": "Start 2 change 1",
         "description": "",
         "httpMethod": "GET",
         "useProjectPrefixUrl": false,
@@ -58,6 +58,37 @@
         "revision": 0,
         "uuid": "14742979220674d0c2345-e5dc-40a3-9a9b-657eb17a222b",
         "assertions": [],
+        "requestHeaders": []
+      },
+      {
+        "identifier": 2,
+        "name": "Start 3",
+        "description": "",
+        "httpMethod": "GET",
+        "useProjectPrefixUrl": false,
+        "fetchCSRFToken": false,
+        "url": "http://localhost:3000",
+        "tags": "",
+        "requestBody": "",
+        "scriptCode": "",
+        "testScriptCode": "",
+        "responseBodyFormat": "text",
+        "groupName": "",
+        "useBasicAuthentication": false,
+        "usernameBasicAuth": "",
+        "passwordBasicAuth": "",
+        "changed": false,
+        "revision": 0,
+        "uuid": "1474298129960bce79046-af8d-4dbb-9793-f01f455a73ed",
+        "assertions": [
+          {
+            "name": "",
+            "assertProperty": "STATUS",
+            "operation": "EQUALS",
+            "path": "",
+            "expected": "200"
+          }
+        ],
         "requestHeaders": []
       }
     ],
