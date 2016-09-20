@@ -93,7 +93,7 @@
       },
       {
         "identifier": 4,
-        "name": "Start 4 change 2",
+        "name": "Start 4 change 3",
         "description": "",
         "httpMethod": "GET",
         "useProjectPrefixUrl": false,
@@ -111,37 +111,6 @@
         "changed": false,
         "revision": 0,
         "uuid": "147437188911711393ad6-b7ba-4880-802c-8a003b2979e8",
-        "assertions": [
-          {
-            "name": "",
-            "assertProperty": "STATUS",
-            "operation": "EQUALS",
-            "path": "",
-            "expected": "200"
-          }
-        ],
-        "requestHeaders": []
-      },
-      {
-        "identifier": 5,
-        "name": "Start 5",
-        "description": "",
-        "httpMethod": "GET",
-        "useProjectPrefixUrl": false,
-        "fetchCSRFToken": false,
-        "url": "http://localhost:3000",
-        "tags": "",
-        "requestBody": "",
-        "scriptCode": "",
-        "testScriptCode": "",
-        "responseBodyFormat": "text",
-        "groupName": "",
-        "useBasicAuthentication": false,
-        "usernameBasicAuth": "",
-        "passwordBasicAuth": "",
-        "changed": false,
-        "revision": 0,
-        "uuid": "14743720570786ff5beed-6763-4eac-a775-77397ab12462",
         "assertions": [
           {
             "name": "",
