@@ -1,13 +1,13 @@
 [
   {
-    "identifier": 1,
-    "name": "Project 3",
+    "identifier": 2,
+    "name": "Project 2",
     "prefixUrl": "",
     "username": "",
     "password": "",
     "useBasicAuthentication": false,
     "csrfTokenUrl": "",
-    "baseVersionSha": "1fdba39ae04233177984513917a409011f2d873f",
+    "baseVersionSha": "b282de3639209550cbedaf9c20ff63bf8818806c",
     "useGithub": true,
     "githubUrl": "https://api.github.com",
     "githubRepository": "temprepo",
@@ -15,7 +15,7 @@
     "githubUserRepository": "projectxtest",
     "requests": [
       {
-        "identifier": 1,
+        "identifier": 0,
         "name": "Start 1",
         "description": "",
         "httpMethod": "GET",
@@ -38,7 +38,7 @@
         "requestHeaders": []
       },
       {
-        "identifier": 2,
+        "identifier": 1,
         "name": "Start 2 change 2",
         "description": "",
         "httpMethod": "GET",
@@ -61,8 +61,8 @@
         "requestHeaders": []
       },
       {
-        "identifier": 3,
-        "name": "Start 3 change 7",
+        "identifier": 2,
+        "name": "Start 3 change 8",
         "description": "",
         "httpMethod": "GET",
         "useProjectPrefixUrl": false,
