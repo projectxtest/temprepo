@@ -1,13 +1,13 @@
 [
   {
-    "identifier": 3,
-    "name": "Project 2",
+    "identifier": 1,
+    "name": "Project 3",
     "prefixUrl": "",
     "username": "",
     "password": "",
     "useBasicAuthentication": false,
     "csrfTokenUrl": "",
-    "baseVersionSha": "e227f31796429d6bc05bb095bb5f3b1d02629638",
+    "baseVersionSha": "4ab1254c34daf53908e168c19eb957d6da59a157",
     "useGithub": true,
     "githubUrl": "https://api.github.com",
     "githubRepository": "temprepo",
@@ -62,7 +62,38 @@
       },
       {
         "identifier": 3,
-        "name": "Start 3 change 8",
+        "name": "Start 4 change 1",
+        "description": "",
+        "httpMethod": "GET",
+        "useProjectPrefixUrl": false,
+        "fetchCSRFToken": false,
+        "url": "http://localhost:3000",
+        "tags": "",
+        "requestBody": "",
+        "scriptCode": "",
+        "testScriptCode": "",
+        "responseBodyFormat": "text",
+        "groupName": "",
+        "useBasicAuthentication": false,
+        "usernameBasicAuth": "",
+        "passwordBasicAuth": "",
+        "changed": false,
+        "revision": 0,
+        "uuid": "147437188911711393ad6-b7ba-4880-802c-8a003b2979e8",
+        "assertions": [
+          {
+            "name": "",
+            "assertProperty": "STATUS",
+            "operation": "EQUALS",
+            "path": "",
+            "expected": "200"
+          }
+        ],
+        "requestHeaders": []
+      },
+      {
+        "identifier": 4,
+        "name": "Start 3 change 7",
         "description": "",
         "httpMethod": "GET",
         "useProjectPrefixUrl": false,
@@ -92,8 +123,8 @@
         "requestHeaders": []
       },
       {
-        "identifier": 4,
-        "name": "Start 4",
+        "identifier": 5,
+        "name": "Start 5",
         "description": "",
         "httpMethod": "GET",
         "useProjectPrefixUrl": false,
@@ -110,7 +141,7 @@
         "passwordBasicAuth": "",
         "changed": false,
         "revision": 0,
-        "uuid": "147437188911711393ad6-b7ba-4880-802c-8a003b2979e8",
+        "uuid": "14743720570786ff5beed-6763-4eac-a775-77397ab12462",
         "assertions": [
           {
             "name": "",
