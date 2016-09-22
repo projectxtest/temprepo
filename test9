@@ -1,13 +1,13 @@
 [
   {
-    "identifier": 4,
-    "name": "Project 4",
+    "identifier": 0,
+    "name": "My nice project",
     "prefixUrl": "",
     "username": "",
     "password": "",
     "useBasicAuthentication": false,
     "csrfTokenUrl": "",
-    "baseVersionSha": "dca57c9c92e28434f211a69569ebed2fd4e68342",
+    "baseVersionSha": "65d82157316ceaa5b058d52bef37b53f8f2bc025",
     "useGithub": true,
     "githubUrl": "https://api.github.com",
     "githubRepository": "temprepo",
@@ -39,37 +39,6 @@
       },
       {
         "identifier": 2,
-        "name": "Start 3 change 2",
-        "description": "",
-        "httpMethod": "GET",
-        "useProjectPrefixUrl": false,
-        "fetchCSRFToken": false,
-        "url": "http://localhost:3000",
-        "tags": "",
-        "requestBody": "",
-        "scriptCode": "",
-        "testScriptCode": "",
-        "responseBodyFormat": "text",
-        "groupName": "",
-        "useBasicAuthentication": false,
-        "usernameBasicAuth": "",
-        "passwordBasicAuth": "",
-        "changed": false,
-        "revision": 0,
-        "uuid": "1474547910896d7aab6ef-0b2c-498d-86f7-cf7c3471f552",
-        "assertions": [
-          {
-            "name": "",
-            "assertProperty": "STATUS",
-            "operation": "EQUALS",
-            "path": "",
-            "expected": "200"
-          }
-        ],
-        "requestHeaders": []
-      },
-      {
-        "identifier": 3,
         "name": "Start 4 change 1",
         "description": "",
         "httpMethod": "GET",
@@ -88,6 +57,37 @@
         "changed": false,
         "revision": 0,
         "uuid": "14745482181292383c774-1da5-4881-a2e4-767c28c208bf",
+        "assertions": [
+          {
+            "name": "",
+            "assertProperty": "STATUS",
+            "operation": "EQUALS",
+            "path": "",
+            "expected": "200"
+          }
+        ],
+        "requestHeaders": []
+      },
+      {
+        "identifier": 3,
+        "name": "Start 3 change 2",
+        "description": "",
+        "httpMethod": "GET",
+        "useProjectPrefixUrl": false,
+        "fetchCSRFToken": false,
+        "url": "http://localhost:3000",
+        "tags": "",
+        "requestBody": "",
+        "scriptCode": "",
+        "testScriptCode": "",
+        "responseBodyFormat": "text",
+        "groupName": "",
+        "useBasicAuthentication": false,
+        "usernameBasicAuth": "",
+        "passwordBasicAuth": "",
+        "changed": false,
+        "revision": 0,
+        "uuid": "1474547910896d7aab6ef-0b2c-498d-86f7-cf7c3471f552",
         "assertions": [
           {
             "name": "",
