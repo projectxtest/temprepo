@@ -1,13 +1,13 @@
 [
   {
-    "identifier": 4,
-    "name": "Project 4",
+    "identifier": 0,
+    "name": "My nice project",
     "prefixUrl": "",
     "username": "",
     "password": "",
     "useBasicAuthentication": false,
     "csrfTokenUrl": "",
-    "baseVersionSha": "a45def2bd51750b0d281826b4fa4c3fd99998078",
+    "baseVersionSha": "f9d6b6fa95f099a628398509797137aa9e9c001e",
     "useGithub": true,
     "githubUrl": "https://api.github.com",
     "githubRepository": "temprepo",
@@ -16,6 +16,29 @@
     "requests": [
       {
         "identifier": 1,
+        "name": "Start 2 change 4",
+        "description": "",
+        "httpMethod": "GET",
+        "useProjectPrefixUrl": false,
+        "fetchCSRFToken": false,
+        "url": "http://localhost:3000",
+        "tags": "",
+        "requestBody": "",
+        "scriptCode": "",
+        "testScriptCode": "",
+        "responseBodyFormat": "text",
+        "groupName": "",
+        "useBasicAuthentication": false,
+        "usernameBasicAuth": "",
+        "passwordBasicAuth": "",
+        "changed": false,
+        "revision": 0,
+        "uuid": "147454522677897bcdbf7-3fa3-4345-b65e-dd12cb760cac",
+        "assertions": [],
+        "requestHeaders": []
+      },
+      {
+        "identifier": 2,
         "name": "Start 1 change 1",
         "description": "",
         "httpMethod": "GET",
@@ -38,8 +61,8 @@
         "requestHeaders": []
       },
       {
-        "identifier": 2,
-        "name": "Start 3 change 1",
+        "identifier": 3,
+        "name": "Start 3 change 2",
         "description": "",
         "httpMethod": "GET",
         "useProjectPrefixUrl": false,
@@ -66,29 +89,6 @@
             "expected": "200"
           }
         ],
-        "requestHeaders": []
-      },
-      {
-        "identifier": 3,
-        "name": "Start 2 change 4",
-        "description": "",
-        "httpMethod": "GET",
-        "useProjectPrefixUrl": false,
-        "fetchCSRFToken": false,
-        "url": "http://localhost:3000",
-        "tags": "",
-        "requestBody": "",
-        "scriptCode": "",
-        "testScriptCode": "",
-        "responseBodyFormat": "text",
-        "groupName": "",
-        "useBasicAuthentication": false,
-        "usernameBasicAuth": "",
-        "passwordBasicAuth": "",
-        "changed": false,
-        "revision": 0,
-        "uuid": "147454522677897bcdbf7-3fa3-4345-b65e-dd12cb760cac",
-        "assertions": [],
         "requestHeaders": []
       },
       {
