@@ -7,7 +7,7 @@
     "password": "",
     "useBasicAuthentication": false,
     "csrfTokenUrl": "",
-    "baseVersionSha": "97a6f6f4761bb156aee9fc32a0f5e0196aa40d6e",
+    "baseVersionSha": "ea3d958b3e568d92832e7cb77a5ed341b17da857",
     "useGithub": true,
     "githubUrl": "https://api.github.com",
     "githubRepository": "temprepo",
@@ -93,7 +93,7 @@
       },
       {
         "identifier": 4,
-        "name": "Start 4 change 1",
+        "name": "Start 4 change 2",
         "description": "",
         "httpMethod": "GET",
         "useProjectPrefixUrl": false,
