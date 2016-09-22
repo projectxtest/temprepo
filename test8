@@ -7,7 +7,7 @@
     "password": "",
     "useBasicAuthentication": false,
     "csrfTokenUrl": "",
-    "baseVersionSha": "2188df02ece5923920d6cc6c87989c48a22e1e32",
+    "baseVersionSha": "287feb572cd56ff269f0a4653b6a51cea79db753",
     "useGithub": true,
     "githubUrl": "https://api.github.com",
     "githubRepository": "temprepo",
