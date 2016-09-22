@@ -1,7 +1,7 @@
 [
   {
-    "identifier": 0,
-    "name": "My nice project",
+    "identifier": 4,
+    "name": "Project 4",
     "prefixUrl": "",
     "username": "",
     "password": "",
@@ -16,7 +16,7 @@
     "requests": [
       {
         "identifier": 1,
-        "name": "Start 1 change 1",
+        "name": "Start 1",
         "description": "",
         "httpMethod": "GET",
         "useProjectPrefixUrl": false,
@@ -39,7 +39,7 @@
       },
       {
         "identifier": 2,
-        "name": "Start 2 change 2",
+        "name": "Start 2 change 3",
         "description": "",
         "httpMethod": "GET",
         "useProjectPrefixUrl": false,
