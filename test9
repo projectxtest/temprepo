@@ -1,13 +1,13 @@
 [
   {
-    "identifier": 4,
-    "name": "Project 4",
+    "identifier": 0,
+    "name": "My nice project",
     "prefixUrl": "",
     "username": "",
     "password": "",
     "useBasicAuthentication": false,
     "csrfTokenUrl": "",
-    "baseVersionSha": "dc6814148dc96306d0ae432b8bf440c9f69b7a8c",
+    "baseVersionSha": "bfd73ee3f4986de3b8de82d8b6a839a3b8399b2e",
     "useGithub": true,
     "githubUrl": "https://api.github.com",
     "githubRepository": "temprepo",
@@ -16,7 +16,7 @@
     "requests": [
       {
         "identifier": 1,
-        "name": "Start 1",
+        "name": "Start 1 change 1",
         "description": "",
         "httpMethod": "GET",
         "useProjectPrefixUrl": false,
