@@ -1,13 +1,13 @@
 [
   {
-    "identifier": 1,
-    "name": "Projectx",
+    "identifier": 4,
+    "name": "Project 2",
     "prefixUrl": "",
     "username": "",
     "password": "",
     "useBasicAuthentication": false,
     "csrfTokenUrl": "",
-    "baseVersionSha": "5590a141c8e57637b1655309c807ae1abb498cef",
+    "baseVersionSha": "afab07d67a1910b456ce48d17caf274b2f27b885",
     "useGithub": true,
     "githubUrl": "https://api.github.com",
     "githubRepository": "temprepo",
