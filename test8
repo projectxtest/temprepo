@@ -1,13 +1,13 @@
 [
   {
-    "identifier": 1,
-    "name": "Projectx",
+    "identifier": 4,
+    "name": "Project 2",
     "prefixUrl": "",
     "username": "",
     "password": "",
     "useBasicAuthentication": false,
     "csrfTokenUrl": "",
-    "baseVersionSha": "696e05c3907c1f44dbca4eb01d18b8fbe83d2ce8",
+    "baseVersionSha": "1582e77375989d3aa2c92199ceb6d28b06b76d5d",
     "useGithub": true,
     "githubUrl": "https://api.github.com",
     "githubRepository": "temprepo",
@@ -62,7 +62,7 @@
       },
       {
         "identifier": 3,
-        "name": "Start 3 change 1",
+        "name": "Start 3",
         "description": "",
         "httpMethod": "GET",
         "useProjectPrefixUrl": false,
@@ -80,37 +80,6 @@
         "changed": false,
         "revision": 0,
         "uuid": "1474537378264da6f980f-3f95-40c4-94eb-03cde7b6cef5",
-        "assertions": [
-          {
-            "name": "",
-            "assertProperty": "STATUS",
-            "operation": "EQUALS",
-            "path": "",
-            "expected": "200"
-          }
-        ],
-        "requestHeaders": []
-      },
-      {
-        "identifier": 4,
-        "name": "Start 4",
-        "description": "",
-        "httpMethod": "GET",
-        "useProjectPrefixUrl": false,
-        "fetchCSRFToken": false,
-        "url": "http://localhost:3000",
-        "tags": "",
-        "requestBody": "",
-        "scriptCode": "",
-        "testScriptCode": "",
-        "responseBodyFormat": "text",
-        "groupName": "",
-        "useBasicAuthentication": false,
-        "usernameBasicAuth": "",
-        "passwordBasicAuth": "",
-        "changed": false,
-        "revision": 0,
-        "uuid": "14745374403617ecc9318-a8c7-4303-9a15-8037c69be4ce",
         "assertions": [
           {
             "name": "",
