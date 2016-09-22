@@ -1,13 +1,13 @@
 [
   {
-    "identifier": 4,
-    "name": "Project 4",
+    "identifier": 0,
+    "name": "My nice project",
     "prefixUrl": "",
     "username": "",
     "password": "",
     "useBasicAuthentication": false,
     "csrfTokenUrl": "",
-    "baseVersionSha": "2f08b2d5f5f234347124a5583354f080585ad068",
+    "baseVersionSha": "cd5b1f15c9d63dfe619485ff9a6d76e5da49934f",
     "useGithub": true,
     "githubUrl": "https://api.github.com",
     "githubRepository": "temprepo",
