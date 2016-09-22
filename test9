@@ -1,13 +1,13 @@
 [
   {
-    "identifier": 0,
-    "name": "My nice project",
+    "identifier": 4,
+    "name": "Project 4",
     "prefixUrl": "",
     "username": "",
     "password": "",
     "useBasicAuthentication": false,
     "csrfTokenUrl": "",
-    "baseVersionSha": "9b00fd270bebd9bd4571dc4a070e9c2bef4f3bb1",
+    "baseVersionSha": "2f08b2d5f5f234347124a5583354f080585ad068",
     "useGithub": true,
     "githubUrl": "https://api.github.com",
     "githubRepository": "temprepo",
@@ -58,6 +58,37 @@
         "revision": 0,
         "uuid": "14745452267786cb05868-bc31-4d7b-b651-0619ad522b53",
         "assertions": [],
+        "requestHeaders": []
+      },
+      {
+        "identifier": 3,
+        "name": "Start 3",
+        "description": "",
+        "httpMethod": "GET",
+        "useProjectPrefixUrl": false,
+        "fetchCSRFToken": false,
+        "url": "http://localhost:3000",
+        "tags": "",
+        "requestBody": "",
+        "scriptCode": "",
+        "testScriptCode": "",
+        "responseBodyFormat": "text",
+        "groupName": "",
+        "useBasicAuthentication": false,
+        "usernameBasicAuth": "",
+        "passwordBasicAuth": "",
+        "changed": false,
+        "revision": 0,
+        "uuid": "1474547910896d7aab6ef-0b2c-498d-86f7-cf7c3471f552",
+        "assertions": [
+          {
+            "name": "",
+            "assertProperty": "STATUS",
+            "operation": "EQUALS",
+            "path": "",
+            "expected": "200"
+          }
+        ],
         "requestHeaders": []
       }
     ],
