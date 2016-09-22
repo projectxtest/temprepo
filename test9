@@ -7,7 +7,7 @@
     "password": "",
     "useBasicAuthentication": false,
     "csrfTokenUrl": "",
-    "baseVersionSha": "c6ab1665d5f3f16356473be2248a996eb9b8b9b5",
+    "baseVersionSha": "80dce3b4849827672bd701f8c3d7aa22ea2df167",
     "useGithub": true,
     "githubUrl": "https://api.github.com",
     "githubRepository": "temprepo",
@@ -88,37 +88,6 @@
         "changed": false,
         "revision": 0,
         "uuid": "14745482181292383c774-1da5-4881-a2e4-767c28c208bf",
-        "assertions": [
-          {
-            "name": "",
-            "assertProperty": "STATUS",
-            "operation": "EQUALS",
-            "path": "",
-            "expected": "200"
-          }
-        ],
-        "requestHeaders": []
-      },
-      {
-        "identifier": 4,
-        "name": "Start 4 change 3 (NEW)",
-        "description": "",
-        "httpMethod": "GET",
-        "useProjectPrefixUrl": false,
-        "fetchCSRFToken": false,
-        "url": "http://localhost:3000",
-        "tags": "",
-        "requestBody": "",
-        "scriptCode": "",
-        "testScriptCode": "",
-        "responseBodyFormat": "text",
-        "groupName": "",
-        "useBasicAuthentication": false,
-        "usernameBasicAuth": "",
-        "passwordBasicAuth": "",
-        "changed": false,
-        "revision": 0,
-        "uuid": "1474548350309f23dd67d-702b-4cef-9a27-7e902e210b1e",
         "assertions": [
           {
             "name": "",
