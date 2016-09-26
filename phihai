@@ -59,6 +59,37 @@
         "uuid": "147490464662767262d63-8129-4e45-afce-0515569f748d",
         "assertions": [],
         "requestHeaders": []
+      },
+      {
+        "identifier": 3,
+        "name": "Start 3",
+        "description": "",
+        "httpMethod": "GET",
+        "useProjectPrefixUrl": false,
+        "fetchCSRFToken": false,
+        "url": "http://localhost:3000",
+        "tags": "",
+        "requestBody": "",
+        "scriptCode": "",
+        "testScriptCode": "",
+        "responseBodyFormat": "text",
+        "groupName": "",
+        "useBasicAuthentication": false,
+        "usernameBasicAuth": "",
+        "passwordBasicAuth": "",
+        "changed": false,
+        "revision": 0,
+        "uuid": "14749047726476ace541e-fbb7-4d01-ba47-8f4b30261edf",
+        "assertions": [
+          {
+            "name": "",
+            "assertProperty": "STATUS",
+            "operation": "EQUALS",
+            "path": "",
+            "expected": "200"
+          }
+        ],
+        "requestHeaders": []
       }
     ],
     "sequences": [],
