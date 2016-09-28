@@ -1,13 +1,13 @@
 [
   {
-    "identifier": 6,
-    "name": "Demo",
+    "identifier": 0,
+    "name": "My nice project",
     "prefixUrl": "",
     "username": "",
     "password": "",
     "useBasicAuthentication": false,
     "csrfTokenUrl": "",
-    "baseVersionSha": "0f70c1af5bc7ba2186bd93d4adc1bcf3c892f3ce",
+    "baseVersionSha": "1cf824b79d57ce1cec48dd530314732a0c2e00ca",
     "useGithub": true,
     "githubUrl": "https://api.github.com",
     "githubRepository": "temprepo",
@@ -39,7 +39,7 @@
       },
       {
         "identifier": 2,
-        "name": "Patrick 1",
+        "name": "Patrick 1 change 1",
         "description": "",
         "httpMethod": "GET",
         "useProjectPrefixUrl": false,
