@@ -7,7 +7,7 @@
     "password": "",
     "useBasicAuthentication": false,
     "csrfTokenUrl": "",
-    "baseVersionSha": "",
+    "baseVersionSha": "237efa97cd7b9ff34ded46570a39702013550dc2",
     "useGithub": true,
     "githubUrl": "https://api.github.com",
     "githubRepository": "temprepo",
@@ -15,7 +15,7 @@
     "githubUserRepository": "projectxtest",
     "requests": [
       {
-        "identifier": 1,
+        "identifier": 0,
         "name": "Patrick 1",
         "description": "",
         "httpMethod": "GET",
@@ -38,7 +38,7 @@
         "requestHeaders": []
       },
       {
-        "identifier": 2,
+        "identifier": 1,
         "name": "Dat 1",
         "description": "",
         "httpMethod": "GET",
